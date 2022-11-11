@@ -1,7 +1,7 @@
 # t-rex.rinlink.jp
 
 ## Instructions
-- three.js Google Dinosaur game project
+- three.js 3D Google Dinosaur Game project
 - front end : use webpack to managment evn
 - back end : use docker-compose to managment evn
 ## How to use
